@@ -159,7 +159,7 @@ $('#submit').click(function () {
                     [tr][td][b]BÖLÜM A. EN İYİ PERFORMANS[/b][/TD][/TR]
                     [tr][td]${$('#positive').val()}[/TD][/TR][/transtable][hr][/hr]
                     [transtable=Arial]
-                    [tr][td][b]BÖLÜM B. EN KÖTÜ PERFORMANS[/b][/TD][/TR]
+                    [tr][td][b]BÖLÜM B. EN ZAYIF PERFORMANS[/b][/TD][/TR]
                     [tr][td]${$('#negative').val()}[/TD][/TR][/transtable][hr][/hr]
                     [transtable=Arial]
                     [tr][td][b]BÖLÜM C. ÖĞRETİLEN PRATİK/TEORİK BİLGİLER & DEVRİYE KAYDI[/b][/TD][/TR]
